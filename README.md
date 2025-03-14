@@ -86,6 +86,24 @@ Após o primeiro cold start, as funções começam a operar normalmente, e a lat
 
 ---
 
+
+## 📊 Observabilidade
+
+A **observabilidade** do sistema é garantida com a integração do **Datadog**, que nos permite rastrear e monitorar eventos das requisições.
+
+### Como Funciona:
+
+- **Rastreamento de Requisições**: O Datadog rastreia as requisições feitas aos endpoints do backend. Ele coleta dados sobre latência, falhas e outros parâmetros importantes para garantir que o sistema esteja funcionando corretamente.
+- **Monitoramento de Logs**: Todos os logs do sistema são enviados para o Datadog, o que permite uma análise detalhada dos eventos e facilita a detecção de erros e anomalias.
+
+---
+
+## 🧪 Testes Unitários
+
+- Estamos utilizando o **Jest** para realizar testes unitários no projeto. A cobertura de testes ainda está em fase inicial, mas já foi iniciado o processo de implementação. Garantindo qualidade e evitando erros. 
+
+---
+
 ## 🌐 Ambiente de Execução
 
 - **Funções Lambda**: As funções Lambda são executadas na AWS. Elas operam de forma serverless e são invocadas por eventos. Para manter os custos baixos, não foi utilizado o serviço de "keep alive" da AWS nem o provisionamento de simultaneidade.
