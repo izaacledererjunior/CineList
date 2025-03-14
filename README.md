@@ -49,7 +49,7 @@ Após o primeiro cold start, as funções começam a operar normalmente, e a lat
 
 ## ⚙️ Códigos Fontes
 
-- [Lambda-User](#) - Link para o projeto no GitHub
+- [Lambda-User](https://github.com/izaacledererjunior/apiuser) - Link para o projeto no GitHub
 - [Lambda-Tasks](#) - Link para o projeto no GitHub
 - [CineList](https://github.com/izaacledererjunior/cine) - Link para o projeto no GitHub
 
