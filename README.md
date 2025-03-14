@@ -60,7 +60,7 @@ Após o primeiro cold start, as funções começam a operar normalmente, e a lat
 ### Funções Lambda
 
 - **[Documentação Lambda User](https://5pyye0j398.execute-api.us-east-2.amazonaws.com/dev/api-docs/)**: Acesse a documentação da função Lambda para gerenciamento de usuários.
-- **[Documentação Lambda Ticket](https://0m77hwa15l.execute-api.us-east-2.amazonaws.com/dev/api-docs/)**: Acesse a documentação da função Lambda para gerenciamento de tarefas.
+- **[Documentação Lambda Tasks](https://0m77hwa15l.execute-api.us-east-2.amazonaws.com/dev/api-docs/)**: Acesse a documentação da função Lambda para gerenciamento de tarefas.
 
 
 ---
