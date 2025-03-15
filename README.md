@@ -163,9 +163,9 @@ Com isso, a infraestrutura do projeto é totalmente baseada na AWS para o back-e
 
 Os detalhes para rodar os diferentes componentes do projeto estão disponíveis nos repositórios individuais:
 
-- **[Lambda-User](#)**: Instruções para rodar o serviço de gerenciamento de usuários.
-- **[Lambda-Tasks](#)**: Instruções para rodar o serviço de gerenciamento de tarefas.
-- **[CineList (Frontend)](https://github.com/usuário/cinelist)**: Instruções para rodar o front-end da plataforma.
+- **[Lambda-User](https://github.com/izaacledererjunior/apiuser)**: Instruções para rodar o serviço de gerenciamento de usuários.
+- **[Lambda-Tasks](https://github.com/izaacledererjunior/apitask)**: Instruções para rodar o serviço de gerenciamento de tarefas.
+- **[CineList (Frontend)](https://github.com/izaacledererjunior/cine)**: Instruções para rodar o front-end da plataforma.
 
 Visite os repositórios para encontrar informações detalhadas sobre como configurar e rodar cada parte do projeto.
 
